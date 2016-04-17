@@ -1,0 +1,6 @@
+
+JDK 8 or higher is required to run the JAR file
+
+Use the following command in the commamd prompt
+
+java -jar "C:\..\SimpleCalc.jar
